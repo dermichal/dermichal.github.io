@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Why you should enter the game of bitcoin dollar-cost averaging
+title: Why you should enter the game of dollar-cost averaging
 category: home
 tags: bitcoin dca investing
+permalink: /dca/
 ---
+
 
 - dca bitcoin will slowly bring you into the game of investing
 - it will keep you in tha game thus reduce process fatique

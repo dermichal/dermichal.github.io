@@ -1,7 +1,8 @@
 ---
 layout: page
-title: why?
-permalink: /why/
+title: Why are you doing?
+permalink: /why
+category: home
 ---
 
 Welcome to the inner searchings of my sould. Here I try to capture and redefine myself over and over again. The following is some content on updating my identity...
